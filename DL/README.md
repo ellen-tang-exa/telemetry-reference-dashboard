@@ -7,9 +7,8 @@ Reference dashboard design json permission is different from permission control 
 
 # DD Index 
 | DD JSON | Description |
-| ---------- | ------ | 
-| Data Pipeline Dashboard DL.json | reference overall dashboard for data lake ingestion pipeline
- | 
+| ---------- | --------------- | 
+| Data Pipeline Dashboard DL.json | reference overall dashboard for data lake ingestion pipeline | 
 | ElasticSearch Dashboard.json | Reference dashboard focusing on elasticsearch. | 
 
 
