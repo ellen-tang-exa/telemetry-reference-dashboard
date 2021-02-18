@@ -1,0 +1,14 @@
+{
+  "title": "Telemetry Dashboard DL",
+  "description": "Datalake dashboard integrated with Jira.",
+  "widgets": [
+ 
+  ],
+  "template_variables": [
+ 
+  ],
+  "layout_type": "ordered",
+  "is_read_only": false,
+  "notify_list": [ ],
+  "id": "dwe-suq-us8"
+}
